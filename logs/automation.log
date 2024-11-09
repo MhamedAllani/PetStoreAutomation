@@ -1,0 +1,7 @@
+03:00:08.761 [main] INFO  api.test.userTestsUsingUserEndPoint2 - ****** user created *******
+03:00:08.789 [main] INFO  api.test.userTestsUsingUserEndPoint2 - ****** Reading user info *******
+03:00:09.891 [main] INFO  api.test.userTestsUsingUserEndPoint2 - ****** user info is displayed *******
+03:00:09.894 [main] INFO  api.test.userTestsUsingUserEndPoint2 - ****** Updating user *******
+03:00:12.021 [main] INFO  api.test.userTestsUsingUserEndPoint2 - ****** user  updated *******
+03:00:12.024 [main] INFO  api.test.userTestsUsingUserEndPoint2 - ****** deleting user *******
+03:00:13.081 [main] INFO  api.test.userTestsUsingUserEndPoint2 - ****** user deleted *******
